@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 ![image](boolean1.png)
-![image](booleanw.png)
+![image](boolean2.png)
 ## Available Scripts
 
 In the project directory, you can run:

@@ -4,6 +4,9 @@ https://goofy-banach-bd1282.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+![image](boolean1.png)
+![image](booleanw.png)
 ## Available Scripts
 
 In the project directory, you can run:

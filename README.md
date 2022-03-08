@@ -27,5 +27,5 @@ It can be accesssed here https://goofy-banach-bd1282.netlify.app/
 ## Screenshots
 ![image](boolean1.png)
 ![image](boolean2.png)
-## Available Scripts
+
 

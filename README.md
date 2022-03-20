@@ -10,7 +10,7 @@ This project was created to address the issue of School of Code bootcampers feel
 
 This project was deployed using netlify 
 
-It can be accesssed here https://goofy-banach-bd1282.netlify.app/
+It can be accesssed here https://boolean-hooligans.netlify.app
 
 
 
